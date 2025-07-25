@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 let imageLoaded=0;
 let images=[];
 const frames={
